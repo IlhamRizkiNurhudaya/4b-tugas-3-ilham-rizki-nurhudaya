@@ -1,0 +1,37 @@
+.btn{
+    background-color: khaki;
+    color: maroon;
+    margin: 10px;
+    padding: 10px;
+    font-family: Poppins;
+    font-weight: bold;   
+    margin-top: 20px; 
+}
+
+ .tabel{
+    background-color: maroon;
+    color: khaki;
+    margin: 10px;
+    border-style: solid;
+    padding: 20px;
+    font-family: Poppins;
+    font-size: smaller;
+ }
+
+ .header{
+     color: khaki;
+     padding-bottom: 20px;
+     font-size: larger;
+ }
+
+ .hsl{
+     background-color: maroon;
+     border-style: unset;
+     font-family: Poppins;
+     font-weight: bold;   
+ }
+
+ .input{
+    border-color: khaki;
+    font-family: Poppins;
+ }
